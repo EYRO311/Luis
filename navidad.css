@@ -36,30 +36,11 @@
         visibility: hidden;
        text-align: center;
     }
-    .contenedor figure .capa1{
-        position: absolute;
-        top: 0;
-        width: 100%;
-        height: 100%;
-        background: rgba(141, 49, 160, 0.7);
-        transition: all 400ms ease-out;
-        opacity: 0;
-        visibility: hidden;
-       text-align: center;
-    }
     .contenedor figure:hover > .capa {
         opacity: 1;
         visibility: visible;
     }
     .contenedor figure:hover > .capa h1{
-        margin-top: 5%;
-        margin-bottom: 15%;
-    }
-    .contenedor figure:hover > .capa1 {
-        opacity: 1;
-        visibility: visible;
-    }
-    .contenedor figure:hover > .capa1 h1{
         margin-top: 5%;
         margin-bottom: 15%;
     }
@@ -74,26 +55,9 @@
         transition: all 400ms ease-out;
          margin-top: 30px;
     }
-    .contenedor figure .capa1 h1{
-        color: #fff;
-        font-weight: 400;
-        font-size: 400%;
-        margin-bottom: 120px;
-        transition: all 400ms ease-out;
-         margin-top: 30px;
-    }
     .contenedor figure .capa p{
         color: #fff;
-        font-size: 328%;
-        line-height: 1.5;
-        width: 100%;
-        max-width: 70%;
-        margin: auto;
-        font-family: cursive;
-    }
-    .contenedor figure .capa1 p{
-        color: #fff;
-        font-size: 308%;
+        font-size: 318%;
         line-height: 1.5;
         width: 100%;
         max-width: 70%;
