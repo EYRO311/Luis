@@ -1,6 +1,6 @@
 *{margin: 0;padding: 0;
     box-sizing: border-box;
-    font-family: sans-serif;background-color: #510e7e;}
+    font-family: sans-serif;background: linear-gradient(to bottom, rgb(69, 21, 92), rgb(172, 133, 216));}
     
     
     .contenedor{
@@ -37,7 +37,7 @@
        text-align: center;
     }
     .contenedor figure:hover > .capa {
-        opacity: 1;
+        opacity: 8;
         visibility: visible;
     }
     .contenedor figure:hover > .capa h1{
