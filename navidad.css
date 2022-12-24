@@ -1,6 +1,6 @@
 *{margin: 0;padding: 0;
     box-sizing: border-box;
-    font-family: sans-serif;background-color: #610e99;}
+    font-family: sans-serif;background-color: #510e7e;}
     
     
     .contenedor{
@@ -57,7 +57,7 @@
     }
     .contenedor figure .capa p{
         color: #fff;
-        font-size: 298%;
+        font-size: 268%;
         line-height: 1.5;
         width: 100%;
         max-width: 70%;
